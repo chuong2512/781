@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: d986d7ea15791d444bdec0fc639bc943
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 104
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbe94593464a5d00800000000000000
+      internalID: 962158726478425043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 235
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572561a4c65a0f10800000000000000
+      internalID: 2236695567464212318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1468
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98580f54f8776d780800000000000000
+      internalID: -8658601776335780471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1314
+        width: 92
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9251380753d2e2c10800000000000000
+      internalID: 2030610189534827817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1281
+        width: 340
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781239bff5ef16a40800000000000000
+      internalID: 5359844719743672711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1304
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b886f0c215585b50800000000000000
+      internalID: 6582104394437134515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 136
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fead4afd33682560800000000000000
+      internalID: 7289185114742697713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1136
+        width: 115
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9813a32f8a83e0800000000000000
+      internalID: -2050669297090913569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1009
+        height: 1133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358758393b92be9f0800000000000000
+      internalID: -438210687487608749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1136
+        width: 127
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54737647e2994d0800000000000000
+      internalID: -3127417388749339214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1136
+        width: 118
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ac7d6b8fa56650800000000000000
+      internalID: 6225575073281778868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 16
+        width: 928
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7893a957e7a0999d0800000000000000
+      internalID: -2767168957787260537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_12
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 320
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547fcdc4ec9dd2d0800000000000000
+      internalID: -3252270849372228522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_13
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 320
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5411a550fef58d0800000000000000
+      internalID: -2855300832464648760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_14
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a6b12daccc7add0800000000000000
+      internalID: -2474784298736326142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: da6f48c58eaa9824496bdf6b8ae7f7d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_0: 962158726478425043
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_1: 2236695567464212318
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_10: 6225575073281778868
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_11: -2767168957787260537
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_12: -3252270849372228522
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_13: -2855300832464648760
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_14: -2474784298736326142
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_2: -8658601776335780471
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_3: 2030610189534827817
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_4: 5359844719743672711
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_5: 6582104394437134515
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_6: 7289185114742697713
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_7: -2050669297090913569
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_8: -438210687487608749
+      sactx-2048x2048-ASTC 8x8-ShopSkinUI-ea3c4db5_d1_9: -3127417388749339214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

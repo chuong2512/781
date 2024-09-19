@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "FreddyEatingMotion"
+  m_Controller: {fileID: 9100000, guid: 50ba93f462eb43abbf0a311c0ddb69f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5317a1570a264bbf9218ed96ec80f606, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5317a1570a264bbf9218ed96ec80f606, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f582c74e56354ffc8bf25cc47ca8c0fb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f582c74e56354ffc8bf25cc47ca8c0fb, type: 2}

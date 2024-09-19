@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "SlicedHorizontalDie"
+  m_Controller: {fileID: 9100000, guid: 5e993d22b96842609b7d7f4a5bb42317, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3f662427fabe43c6b03ff11d3f34e4f0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 38b554fed7244233a7444b3a7308fc57, type: 2}

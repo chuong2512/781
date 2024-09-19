@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "SpiderMotions"
+  m_Controller: {fileID: 9100000, guid: b8021918a06f4801bf4ede0995abd02f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d00a6a2bfb304c63ac7f06f973b1187b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8a80bd6076a1438b9059d595a2da9a85, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c8194b2ac0484be891375244aa422bbc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0516c99086484c73b62639bbf0fd5568, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d82d91668e8f4e7bafb3190d5887b542, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8a80bd6076a1438b9059d595a2da9a85, type: 2}
